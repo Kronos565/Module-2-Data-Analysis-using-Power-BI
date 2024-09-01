@@ -64,3 +64,13 @@ This project leverages several DAX formulas to create calculated tables and meas
 1. **Clone the Repository:**
    ```bash
    https://github.com/Kronos565/Module-2-Data-Analysis-using-Power-BI.git
+2. **Open in Power BI:**
+   ```bash
+    Load the .pbix file into Power BI Desktop.
+3.**Explore the Dashboard:**   
+  ```bash 
+   Use the slicers and visuals to explore the data. Adjust filters to gain insights into specific segments or regions.
+
+
+
+
