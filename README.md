@@ -63,4 +63,4 @@ This project leverages several DAX formulas to create calculated tables and meas
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   [git clone https://github.com/yourusername/your-repository.git](https://github.com/Kronos565/Module-2-Data-Analysis-using-Power-BI.git)
